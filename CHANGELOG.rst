@@ -2,8 +2,8 @@
 Changelog for package onnxruntime_ament
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.2.0 (2025-05-31)
+------------------
 * Update onnxruntime to v1.20.0
 * Update onnxruntime to v1.12.1
 * Contributors: qiayuanl
