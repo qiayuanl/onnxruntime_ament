@@ -17,6 +17,7 @@ else ()
 endif ()
 
 include(FetchContent)
+set(FETCHCONTENT_FULLY_DISCONNECTED OFF) # In Ubuntu 24.04, the debhelper tool sets this variable to ON by default
 FetchContent_Declare(
         onnxruntimeDownload
         URL https://github.com/microsoft/onnxruntime/releases/download/v${ONNXRUNTIME_VERSION}/onnxruntime-${ONNXRUNTIME_PLATFORM}-${ONNXRUNTIME_VERSION}.tgz
