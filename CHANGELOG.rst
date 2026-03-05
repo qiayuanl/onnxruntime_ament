@@ -2,8 +2,8 @@
 Changelog for package onnxruntime_ament
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.3.0 (2026-03-05)
+------------------
 * Set FETCHCONTENT_FULLY_DISCONNECTED to OFF for Ubuntu 24.04 compatibility
 * Contributors: qiayuanl
 
